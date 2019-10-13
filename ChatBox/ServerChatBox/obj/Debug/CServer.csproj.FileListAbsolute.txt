@@ -1,0 +1,10 @@
+C:\Users\Zombi\source\repos\ChatBox\ServerChatBox\bin\Debug\ServerChatBox.exe.config
+C:\Users\Zombi\source\repos\ChatBox\ServerChatBox\bin\Debug\ServerChatBox.exe
+C:\Users\Zombi\source\repos\ChatBox\ServerChatBox\bin\Debug\ServerChatBox.pdb
+C:\Users\Zombi\source\repos\ChatBox\ServerChatBox\bin\Debug\CommonTypes.dll
+C:\Users\Zombi\source\repos\ChatBox\ServerChatBox\bin\Debug\CommonTypes.pdb
+C:\Users\Zombi\source\repos\ChatBox\ServerChatBox\obj\Debug\CServer.csprojAssemblyReference.cache
+C:\Users\Zombi\source\repos\ChatBox\ServerChatBox\obj\Debug\CServer.csproj.CoreCompileInputs.cache
+C:\Users\Zombi\source\repos\ChatBox\ServerChatBox\obj\Debug\CServer.csproj.CopyComplete
+C:\Users\Zombi\source\repos\ChatBox\ServerChatBox\obj\Debug\ServerChatBox.exe
+C:\Users\Zombi\source\repos\ChatBox\ServerChatBox\obj\Debug\ServerChatBox.pdb

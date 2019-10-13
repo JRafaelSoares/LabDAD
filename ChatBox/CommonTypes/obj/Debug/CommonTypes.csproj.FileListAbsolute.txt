@@ -1,0 +1,6 @@
+C:\Users\Zombi\source\repos\ChatBox\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\Zombi\source\repos\ChatBox\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\Zombi\source\repos\ChatBox\CommonTypes\obj\Debug\CommonTypes.csprojAssemblyReference.cache
+C:\Users\Zombi\source\repos\ChatBox\CommonTypes\obj\Debug\CommonTypes.csproj.CoreCompileInputs.cache
+C:\Users\Zombi\source\repos\ChatBox\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\Zombi\source\repos\ChatBox\CommonTypes\obj\Debug\CommonTypes.pdb
